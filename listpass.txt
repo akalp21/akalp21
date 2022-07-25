@@ -1,5 +1,5 @@
-00
-000
+admin
+pass
 0000
 000000
 00000000
@@ -2998,5 +2998,3 @@ zxcasdqwe123
 zxcv
 zxcv123
 zxcv1234
-admin
-pass
